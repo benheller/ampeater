@@ -1,0 +1,15 @@
+---
+layout: post
+title: "New Albums in the Ampeater Store & Ampeater Digital Distribution"
+date: 2011-01-10 18:08:33
+permalink: ampeaterstoreanddistro
+---
+In conjunction with our FREE 7-inches, Ampeater likes to help artists in as many ways as possible. We do this by throwing shows, inviting bands to do [Casual Business](http://ampeatermusic.com/casualbusiness) sessions, selling their albums and EPs in our [online store](http://ampeatermusic.com/store), and by distributing digital LPs through iTunes (we cover all ISRC and UPC costs). Please e-mail us at [contact@ampeatermusic.com](mailto:contact@ampeatermusic.com) to learn more about these services. Anyways, we have some new additions to our store and to iTunes that we'd like to share with you all!
+
+[**SAVES! - The Scene Queen EP**](http://ampeatermusic.com/store) "I've been told that I paint landscapes, that even where then isn't much travel there's plenty of exploration. I like that, forcing your ears to see in 3D and Technicolor. Someone told me that they thought it was punk folk, while another folk punk. I've heard Emo, Post-Emo, Emoricana. I think that's what you get when you follow four straight years of Brand New with four straight years of Neutral Milk Hotel."
+
+[**Lingering Last Drops - Daylight, or Something Similar**](http://itunes.apple.com/us/album/daylight-or-something-similar/id390700273) Lingering Last Drops has produced a prophetic and ingenious record. Imagine if Neu! were the bar band in Twin Peaks, or if the Basement Tapes were made in the cargo hold of Solaris with the oxygen levels hovering just above zero. Reverbed-out guitars, synths that sound like resonating teeth, drums delayed out until infinity, voices that sound like Satan's out-of-the-office voicemail...you get the idea. There still isn't really a name for the music Lingering Last Drops is making. There is, however, a sensation associated with it at once so specific you wonder how to get rid of it, and so universal you wonder why you've never noticed it before. This band makes sounds so uncomfortable it should come with a prescription.
+
+**And a perennial favorite!** [**James William Roy - Paper Valentines**](http://ampeatermusic.com/store) James William Roy, a genius songwriter, who in his promo pictures looks like a cross between a cool dad and the Duane Johnson of a less-literal Rock, might as well be the authority on pop mishaps spun into metaphorical, if not monetary, gold. This guy writes perfect songs. One listen to "Paper Valentine" is about all it takes to make it your favorite song of the month, an a-side in the most quintessential sense. Not to harp on this allusion, but the hook hits you in the same place as a vintage Sugar track, a pop gloss tossed over punk-honed workmanship, the tastefulness of the vocal track that never sounds stretched but nevertheless manages to nail every nuance. Do I have any gripes? Only that if Roy begins moving away from mp3s in favor of vinyl, as he claims he wants to do, I'll have a much harder time putting this song on infinite repeat.
+  
+  
