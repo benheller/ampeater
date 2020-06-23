@@ -71,7 +71,7 @@ p {
 
 // home page
 .post-list {
-  li {
+  > li {
     padding: 2em;
     background-color: white;
     clear: both;
@@ -84,7 +84,7 @@ p {
     p:first-of-type img {
       float:left;
       width: 20%;
-      margin: 0 1em 2em 0;
+      margin: 0 1em 1em 0;
     }
 
     a.more {
