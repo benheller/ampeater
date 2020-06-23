@@ -3,8 +3,11 @@ layout: post
 title: "Ampeater Snapshot: War Mothers"
 date: 2013-02-03 18:16:38
 permalink: ampeater-snapshot-war-mothers
+author: Nate Greenberg
 ---
-**Artist Name:** War Mothers **Location:** Chicago (formerly NYC, Philadelphia, Austin) **Contact:** [warmothersmusic@gmail.com](mailto:warmothersmusic@gmail.com) **Artist Personnel:** Dylan S.P.- songs, voice, instruments additional friends - everything else **Affiliated Artists:** [Ghost/Light (AEM122)](http://ampeatermusic.com/aem122)
+![](http://ampeatermusic.com/wp-content/uploads/2013/02/warmoms-300x244.jpg "War Mothers")**Artist Name:** War Mothers **Location:** Chicago (formerly NYC, Philadelphia, Austin) **Contact:** [warmothersmusic@gmail.com](mailto:warmothersmusic@gmail.com) **Artist Personnel:** Dylan S.P.- songs, voice, instruments additional friends - everything else **Affiliated Artists:** [Ghost/Light (AEM122)](http://ampeatermusic.com/aem122)
+
+<!-- more -->
 
 **Featured Track:** "I Wish You Were A Monster" **Track Personnel:** Dylan S.P.- songs, voice, instruments Barrett Lindgren - other voices, instruments, recording
 
@@ -15,5 +18,6 @@ permalink: ampeater-snapshot-war-mothers
 War Mothers strikes an ideal balance between singer-songwriter and band. The music includes bursts of lush orchestration but remains rooted in the vocal melodies. Dylan SP's expressive voice and wide dynamic range have earned him the obvious comparisons to Jeff Buckley. Like Buckley, Dylan can jump from plaintive whisper to soulful wail to angelic falsetto with expert precision and no hesitation. The unhurried pace of these gorgeous compositions underscores these dynamic shifts. At the softest moments, the accompaniment is sparse. The delicate strum of an acoustic guitar is the sole harmonic support on the first section of "I Wish You Were A Monster." However, the track derives crucial force from the efforts of Barrett Lindgren. Additional layers of texture like the trill of banjo of the dark thud of contrabass swell up to accentuate dramatic moments throughout the compositions, but never take the foreground. War Mothers knows the proper value of peace and quiet. The artist's brilliance is most evident not in the notes played but in the pauses between notes.
 
 It's no surprise that the artist began on a midnight drive. War Mothers provides the perfect soundtrack to space out to on a dark road, when all the other passengers are fast alseep and time slows to a drip, delineated only by the gradual tick of freeway exits leading nowhere. Nate Greenberg
-  
-  
+
+---
+

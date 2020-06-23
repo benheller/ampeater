@@ -3,7 +3,12 @@ layout: post
 title: "Ampeater Snapshot: Peaks"
 date: 2013-01-03 06:25:46
 permalink: ampeater-snapshot-peaks
+author: Nate Greenberg
 ---
+![](http://ampeatermusic.com/wp-content/uploads/2013/01/Peaks-300x199.jpg "Peaks")
+
+<!-- more -->
+
 **NAME:** Peaks
 
 **PERSONNEL:** Rachel Ishikawa — Guitar, Keyboards, Vocals; Peter Hartmann — Guitar, Bass, Keyboards, Vocals; Tom Kearney — Guitar, Electronics; Nate Mendelsohn — Guitar, Bass, Keyboards, Saxophone; Duncan Standish — Drums, Percussion
@@ -23,5 +28,6 @@ Remarkably, throughout the stark metamorphosis, the music never ceases to be sub
 **IN THE ARTIST'S WORDS** "Transit is simultaneously simple and strange. It sports a sugary melody and a poppy groove, but has a strange form, with a wordless chorus, a far away waltz for a bridge, and a free-jazz clatter of a finale. Rachel says it tracks a romance turned long distance, from a train-ride away relationship to a plane-ride away one, but it reminds the rest of us of the late, snowy night in Massachusetts when we recorded it. It is a rumbling, restless journey, disguised as a pop song, or perhaps the opposite."
 
 Nate Greenberg
-  
-  
+
+---
+

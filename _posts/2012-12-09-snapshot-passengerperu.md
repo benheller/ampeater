@@ -3,8 +3,11 @@ layout: post
 title: "Ampeater Snapshot: Passenger Peru"
 date: 2012-12-09 22:00:30
 permalink: snapshot-passengerperu
+author: Nate Greenberg
 ---
-**NAME:** Passenger Peru
+![](http://ampeatermusic.com/wp-content/uploads/2012/12/Passenger-Peru-300x225.jpg "Passenger Peru")**NAME:** Passenger Peru
+
+<!-- more -->
 
 **PERSONNEL:** Justin Stivers: bass, vocals, additional instruments Justin Gonzales: guitar, drum machine, vocals Rochelle Berg: synth, samples
 
@@ -21,5 +24,6 @@ Passenger Peru's self-titled debut demonstrates exceptional attention to composi
 **IN THE ARTIST'S WORDS** Passenger Peru was born out of necessity: the necessity to be creative in a rapidly uncreative world, the necessity to make music we want to hear, the necessity to live. And we find it very necessary (like Salt-n-Pepa) to do everything ourselves, from recording to mixing to the promotion and release of our music. Maybe it's because we're inspired by the likes of Fugazi and Deerhoof and want to have total control of all our output, or maybe we don't want to owe anything to anyone other than ourselves.
 
 Nate Greenberg
-  
-  
+
+---
+

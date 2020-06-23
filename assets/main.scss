@@ -1,0 +1,124 @@
+---
+---
+
+@import 'minima';
+
+
+// variables
+$blue: #628ba5;
+$green: #74857b;
+$red: #ae3308;
+$yellow: #927e4f;
+
+// global
+body {
+  background-color: $blue;
+  color: $green;
+  font-size: 14px;
+  font-family: 'Lucida Grande', 'Lucida Sans', Verdana, sans-serif;
+  text-align: justify;
+}
+
+strong {
+  color: $red;
+}
+
+em {
+  color: $yellow;
+}
+
+a, a:visited {
+  text-decoration: none;
+  color: $blue;
+  font-weight: bold;
+
+  &:hover {
+    color: $green;
+    text-decoration: none;
+  }
+}
+
+hr {
+  margin: 20px 0;
+  border: 1px dashed $green;
+  opacity: .25;
+}
+
+p {
+  line-height: 1.6em;
+}
+
+// layout
+.site-header {
+  padding-top: 20px;
+  border: none;
+}
+
+.notice {
+  display: inline-block;
+  font-style: italic;
+  text-align: center;
+  margin: 30px 0 0;
+  background-color: white;
+  padding: 2em;
+}
+
+// home page
+.post-list {
+  li {
+    padding: 2em;
+    background-color: white;
+    clear: both;
+    &:after {
+      content: "";
+      clear: both;
+      display: table;
+    }
+
+    .p-author {
+      float: right;
+    }
+
+    p:first-of-type img {
+      float:left;
+      width: 20%;
+      margin: 0 1em 0 0;
+    }
+
+    a.more {
+      float:right;
+    }
+  }
+}
+
+// post
+.post {
+  background-color: white;
+  padding: 2em;
+
+  h1 {
+    font-size: 2em;
+    letter-spacing: inherit;
+    color: $blue;
+    font-weight: bold;
+  }
+
+  p:first-of-type img {
+    float:left;
+    width: 40%;
+    margin: 0 1em 0 0;
+  }
+}
+
+.post-content {  
+  h2 {
+    font-size: 1.5em;
+    color: $blue;
+  }
+
+  blockquote {
+    font-size: 1em;
+    font-style: normal;
+    letter-spacing: inherit;
+  }
+}

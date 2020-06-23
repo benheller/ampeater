@@ -3,7 +3,12 @@ layout: post
 title: "Ampeater Snapshot: EULA"
 date: 2012-12-17 16:21:01
 permalink: ampeater-snapshot-eula
+author: Nate Greenberg
 ---
+![](http://ampeatermusic.com/wp-content/uploads/2012/12/EULAbathroomsmall-300x224.jpg)
+
+<!-- more -->
+
 **PERSONNEL:** Alyse Lamb — vocals Jef Maleri — bass Nate Rose — drums
 
 **LOCATION(S):** Brooklyn, NY; New Haven, CT
@@ -17,5 +22,6 @@ permalink: ampeater-snapshot-eula
 **IN THE ARTIST'S WORDS** So sticky, so nutty, so heavy... mashed against a wall of sweet gelatinous gooeyness.... slammed in between 2 wholesome pieces of softness... the roof of your mouth is a little shredded from the peanuts and the jelly is slipping down your chin but you can't stop taking bites of that sandwich. C'est EULA.
 
 Nate Greenberg
-  
-  
+
+---
+

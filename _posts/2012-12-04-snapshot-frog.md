@@ -3,8 +3,11 @@ layout: post
 title: "Ampeater Snapshot: Frog"
 date: 2012-12-04 03:41:46
 permalink: snapshot-frog
+author: Nate Greenberg
 ---
-_You're reading the first in a series of "Ampeater Artist Snapshot" posts, that highlight bands we're digging 'round the HQ. Keep an eye on Snapshot artists, as they're likely to crop up again in full-length reviews, videos, and even Ampeater-sponsored concerts!_
+![](http://ampeatermusic.com/wp-content/uploads/2012/12/IMG_0320-300x225.jpg "Frog")_You're reading the first in a series of "Ampeater Artist Snapshot" posts, that highlight bands we're digging 'round the HQ. Keep an eye on Snapshot artists, as they're likely to crop up again in full-length reviews, videos, and even Ampeater-sponsored concerts!_
+
+<!-- more -->
 
 **NAME:** Frog
 
@@ -21,5 +24,6 @@ I often keep music on in the background and wait for it to draw me in and demand
 **IN THE ARTIST'S WORDS** Ichabod Crane was kind of an experiment. We had just started the band and we didn't really know how to make the songs I was writing into frog songs. Basically, I tried two different ways of playing it and used them both in the final song; for the first half I finger-picked, and then the second half I freaked out. We made it the single because it was kind of representative of the way that we were approaching the songs, as something malleable and unpredictable but also nice and cohesive. Happy Halloween! This song should be listened to in costume.
 
 Nate Greenberg
-  
-  
+
+---
+

@@ -24,8 +24,10 @@ let posts = oldPosts.concat(newPosts);
 function sanitize(str) {
   return str
     .replace(/<table[\s\S]*table>/g, '')
+    .replace(/<\/strong><strong>/g, '')
     .replace(/<h4[\s\S]*h4>/g, '')
-    .replace(/<img[^>]*>/g, '')
+    // todo, replace http://www.ampeatermusic.com/media/aem025/swimming-in-speakers-lyric-sheet.jpg
+    .replace(/<img.*src="https?:\/\/(?:www)?\.ampeatermusic\.com\/media\/(.+?)".*\/>/g, `<img src="${BASE_URL}/$1" />`)
     .replace(/<div[^>]*>/g, '')
     .replace(/<p[^>]*>/g, '')
     .replace(/<\/div>/g, '')
@@ -49,7 +51,6 @@ function sanitize(str) {
 }
 
 posts.map(async post => {
-
   post.title = sanitize(post.title);
   post.content = sanitize(post.content);
 
@@ -71,37 +72,38 @@ posts.map(async post => {
   // write to file...
   post.content = turndownService.turndown(post.content);
 
-  const media = await s3.listObjectsV2({
-    Bucket: 'ampeater',
-    Prefix: post.slug
-  }).promise();
+  // create excerpt
+  const [excerpt, ...rest] = post.content.split('\n\n');
+  post.content = `${excerpt}\n\n<!-- more -->\n\n${rest.join('\n\n')}`;
 
-  const image = media.Contents.find(item => !item.Key.endsWith('mp3'));
-  const tracks = media.Contents.filter(item => item.Key.endsWith('mp3'));
+  const media = (await s3.listObjectsV2({
+    Bucket: 'ampeater',
+    Prefix: `${post.slug}/`
+  }).promise());
+
+  const image = media.Contents.find(item => item.Size > 0 && !item.Key.endsWith('mp3'));
+  const tracks = media.Contents.filter(item => item.Size > 0 && item.Key.endsWith('mp3'));
 
   let string = `---
 layout: post
 title: "${post.title.replace(/\\([\s\S])|(")/g, "\\$1$2")}"
 date: ${post.date}
 permalink: ${post.slug}
+author: ${post.author}
 ---
 `;
 
   if (image) {
-    string += `![${post.title}](${BASE_URL}/${image.Key})
-
-    `;
+    const url = `${BASE_URL}/${image.Key}`;
+    string += `[![${post.title}](${url})](${url})\n\n`;
   }
 
-  string += `${post.content}
-  
-  `;
+  string += `${post.content}\n\n---\n\n`;
 
   for (const track of tracks) {
-    // TODO: add track title properly
-    string += `${BASE_URL}/${track.Key}
-    
-    `;
+    const trackTitle = track.Key.split('/').pop().replace(/(?:\d+ )?(.*).mp3/, '$1');
+    string += `**${trackTitle}**\n\n`;
+    string += `${BASE_URL}/${track.Key}\n\n`;
   }
 
   fs.writeFileSync(path.join(__dirname, '../_posts', `${post.date.split(' ')[0]}-${post.slug}.md`), string);

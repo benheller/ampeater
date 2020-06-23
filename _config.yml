@@ -20,7 +20,7 @@
 
 title: Ampeater Music
 description: >- # this means to ignore newlines until "baseurl:"
-  Ampeater Music is a web­site devoted to bridg­ing the gap between unsigned 
+  Ampeater Music is a website devoted to bridg­ing the gap between unsigned 
   (or just plain under­ex­posed) artists and music lovers every­where. Every day we 
   fea­ture a dif­fer­ent artist on what we call The Ampeater Review. Each fea­tured 
   artist sub­mits a "dig­i­tal 7-inch" which we then com­ple­ment with a detailed 
@@ -34,6 +34,9 @@ theme: minima
 plugins:
   - jekyll-feed
 show_excerpts: true
+excerpt_separator: <!-- more -->
+sass:
+  style: compressed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
