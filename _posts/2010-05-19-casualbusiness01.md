@@ -5,6 +5,8 @@ date: 2010-05-19 13:00:53
 permalink: casualbusiness01
 author: Travis Harrison
 ---
+[![Casual Business 01: Shark?](https://ampeater.s3.amazonaws.com/casualbusiness01/Shark.jpg)](https://ampeater.s3.amazonaws.com/casualbusiness01/Shark.jpg)
+
 To christen our first Casual Business session, we invited buzzing local rock-men **Shark?** to our studio for what we knew would be a terrific time. We had done our homework, downloading and delighting in their [shambling homemade bandcamp EPs](http://sharkquestionmark.bandcamp.com/), made almost entirely by Shark? main-man **Kevin Diamond**, a real persona and a fabulously nice fellow. His band, made of **Andy Swerdlow**, **Andy Kinsey**, and **Chris Mulligan** showed up ready to fuck shit up. I think this was probably the first time these guys have played in a proper fancy recording studio together as Shark? and they _BROUGHT IT_. Yes they're a New York band but there's something resolutely Cleveland about their particular brand of meaty-beaty-big-and-bouncy jamgasms. Sure they're scuzzy and they rock-the-fuck-out, but there's an awareness, a slight tinge of the out-there, a little something palpably and deliberately not-normal popping up at every turn that keeps you engaged and trusting in their intentions.
 
 <!-- more -->
@@ -18,3 +20,24 @@ Throughout the session the band seemed interested in their music sounding shitti
 And speaking of beers. Several half-dozen giant beers were imbibed during this session. We call these lovelies "GBs" at Serious Business. Cheap 24 oz domestic lagers are the only reasonably priced alcohol in this froufrou SoHo 'hood we call home, so GBs make up our lifeblood. We know a session is going well when the band so quickly accepts the flavors of our home-field brews. That's how we roll here, and these Shark-men fit in like they've been sleeping on our couches for months.
 
 So, somewhere between our ceremonial sojourn to the Serious Business rooftop for some conversation/inhalation/celebration, and multiple trips to the Lafayette Smoke Shop for more GBs, **Shark?** geared up--WAY up--and cut two sweet-ass tracks for us. On Side A Diamond shouts, "We got friends". Well dudes, you're always welcome at Serious Business.
+
+[![](https://ampeater.s3.amazonaws.com/casualbusiness01/photo.jpg)](https://ampeater.s3.amazonaws.com/casualbusiness01/photo.jpg)
+
+[![](https://ampeater.s3.amazonaws.com/casualbusiness01/photo2.jpg)](https://ampeater.s3.amazonaws.com/casualbusiness01/photo2.jpg)
+
+[![](https://ampeater.s3.amazonaws.com/casualbusiness01/photo3.jpg)](https://ampeater.s3.amazonaws.com/casualbusiness01/photo3.jpg)
+
+[![](https://ampeater.s3.amazonaws.com/casualbusiness01/photo4.jpg)](https://ampeater.s3.amazonaws.com/casualbusiness01/photo4.jpg)
+
+[![](https://ampeater.s3.amazonaws.com/casualbusiness01/photo5.jpg)](https://ampeater.s3.amazonaws.com/casualbusiness01/photo5.jpg)
+
+---
+
+**I Got Friends**
+
+https://ampeater.s3.amazonaws.com/casualbusiness01/01 I Got Friends.mp3
+
+**Shark_**
+
+https://ampeater.s3.amazonaws.com/casualbusiness01/02 Shark_.mp3
+

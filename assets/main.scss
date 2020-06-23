@@ -106,10 +106,15 @@ p {
     line-height: 1.5em;
   }
 
-  p:first-of-type img {
-    float:left;
-    width: 40%;
-    margin: 0 1em 2em 0;
+  p {
+    &:first-of-type img {
+      float:left;
+      width: 40%;
+      margin: 0 1em 2em 0;
+    }
+    img {
+      width: 100%;
+    }
   }
 }
 
@@ -117,6 +122,14 @@ p {
   h2 {
     font-size: 1.5em;
     color: $blue;
+  }
+
+  h3 {
+    font-size: 1em;
+    color: $red;
+    font-weight: bold;
+    letter-spacing: inherit;
+    margin-bottom: 0;
   }
 
   blockquote {

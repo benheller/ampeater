@@ -5,6 +5,8 @@ date: 2010-07-01 12:00:03
 permalink: casualbusiness02
 author: Travis Harrison
 ---
+[![Casual Business 02: Kleenex Girl Wonder - Fancy Pants of Central California](https://ampeater.s3.amazonaws.com/casualbusiness02/Kleenex Girl Wonder.jpg)](https://ampeater.s3.amazonaws.com/casualbusiness02/Kleenex Girl Wonder.jpg)
+
 **GENESIS** When **Graham Smith** accepted my invitation to participate in this fledgling Casual Business series he also offered to write two new songs for the occasion. To this I intuitively responded "hell fuckin' yeah." Like any real man he made good on his promise. Ladies and Gentlemen, allow me to present to you this 2-song record entitled **Fancy Pants of Central California**, which consists of the songs **"Jobs Jeans"** and **"Cuperchinos."** Trust Graham. He knows exactly what he is doing.
 
 <!-- more -->
@@ -74,3 +76,16 @@ Just comes up short--
 The sun came up at 6 a.m.: "About the time that God made men... Not all stories are spun from thread; So crash the conclave and bust some heads.
 
 I spy with my closed eye A huge big boy and a tiny li'l guy. As to which is which, honey, I can't decide; Listen, certified spirit guides are hard to find!
+
+[![](https://ampeater.s3.amazonaws.com/casualbusiness02/photo-4.jpg)](https://ampeater.s3.amazonaws.com/casualbusiness02/photo-4.jpg)
+
+---
+
+**Jobs Jeans**
+
+https://ampeater.s3.amazonaws.com/casualbusiness02/01 Jobs Jeans.mp3
+
+**Cuperchinos**
+
+https://ampeater.s3.amazonaws.com/casualbusiness02/02 Cuperchinos.mp3
+

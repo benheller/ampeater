@@ -21,12 +21,13 @@ const newPosts = JSON.parse(fs.readFileSync(path.join(__dirname, '../data/new_po
 
 let posts = oldPosts.concat(newPosts);
 
-function sanitize(str) {
+function sanitize(str, post) {
   return str
     .replace(/<table[\s\S]*table>/g, '')
     .replace(/<\/strong><strong>/g, '')
     .replace(/<h4[\s\S]*h4>/g, '')
     .replace(/\[youtube_sc\s+url=\"(.+?)\".*]/g, '$1')
+    .replace(/<a.*href=".+?content\/uploads\/\d+\/\d+\/(.+?)"><img.*/g, `<a href="${BASE_URL}/${post.slug}/$1"><img src="${BASE_URL}/${post.slug}/$1" /></a>\n\n`)
     .replace(/<img.*src="https?:\/\/(?:www\.)?ampeatermusic\.com\/media\/(.+?)".*\/>/g, `<img src="${BASE_URL}/$1" />`)
     .replace(/<img.*src="https?:\/\/(?:www\.)?ampeatermusic\.com\/(.+?)".*\/>/g, '')
     .replace(/<div[^>]*>/g, '')
@@ -49,12 +50,14 @@ function sanitize(str) {
     .replace(/â€“/g, '—')
     .replace(/â€œ/g, '"')
     .replace(/â€/g, '"')
+    .replace(/ª/g, '\r\n')
+    .replace(/¬/g, '\r\n')
     .trim();
 }
 
 posts.map(async post => {
-  post.title = sanitize(post.title);
-  post.content = sanitize(post.content);
+  post.title = sanitize(post.title, post);
+  post.content = sanitize(post.content, post);
 
   post.content = post.content
     .replace(/\r\n\r\n/g, '</p><p>')
@@ -78,12 +81,14 @@ posts.map(async post => {
   // create excerpt
   let [excerpt, ...rest] = post.content.split('\n\n');
 
-  while (excerpt.length < 300 && !excerpt.includes('---')) {
+  while (excerpt.length < 200 && !excerpt.includes('---')) {
     excerpt += `\n\n${rest.shift()}`;
   }
 
   if (rest.length) {
     post.content = `${excerpt}\n\n<!-- more -->\n\n${rest.join('\n\n')}`;
+  } else {
+    post.content = `${excerpt}<!-- more -->`;
   }
 
   const media = (await s3.listObjectsV2({
