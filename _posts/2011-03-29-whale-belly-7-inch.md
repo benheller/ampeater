@@ -7,10 +7,3 @@ author: Ampeater Music
 ---
 Missed our digital 7-inch with Whale Belly? [Check it out here!](http://ampeatermusic.com/aem127)
 -------------------------------------------------------------------------------------------------
-
-<!-- more -->
-
-
-
----
-

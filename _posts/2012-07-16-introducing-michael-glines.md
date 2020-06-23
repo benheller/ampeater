@@ -5,7 +5,7 @@ date: 2012-07-16 12:00:44
 permalink: introducing-michael-glines
 author: Nate Greenberg
 ---
-![](http://ampeatermusic.com/wp-content/uploads/2012/07/glines-300x199.jpg "Michael Glines")Few can write songs like **Michael Glines**. Fewer still have the vocal dynamo to perform them. Those who've got both belong to a rare breed. The determined listener may spend years staggering from coffee house to dive bar, politely stomaching innumerable watered-down one-drink-minimums over comparably watered-down performances in search of one of these elusive artists in its natural habitat-pristine obscurity, untainted by modern ills like inflated ego, commercial aspiration, and mainstream press. We dream. We console ourselves with the blind hope that such an artist must exist somewhere out there and believe that, when we find it, we'll recognize it at once.
+Few can write songs like **Michael Glines**. Fewer still have the vocal dynamo to perform them. Those who've got both belong to a rare breed. The determined listener may spend years staggering from coffee house to dive bar, politely stomaching innumerable watered-down one-drink-minimums over comparably watered-down performances in search of one of these elusive artists in its natural habitat-pristine obscurity, untainted by modern ills like inflated ego, commercial aspiration, and mainstream press. We dream. We console ourselves with the blind hope that such an artist must exist somewhere out there and believe that, when we find it, we'll recognize it at once.
 
 <!-- more -->
 
@@ -21,7 +21,4 @@ Glines will spend the next few weeks in New York, with a couple of solo performa
 
 [Thursday July 19, 7pm-11pm @ the Left Field Bar, 87 Ludlow Street, New York, 10002](http://www.facebook.com/l/LAQERywMaAQGS_VCOs7B9KtHnz3iPsDLQxJJojmo72p1Ggg/www.leftfieldbar.com/) [Thursday July 26, 7pm-11pm @ the Left Field Bar, 87 Ludlow Street, New York, 10002](http://www.facebook.com/l/LAQERywMaAQGS_VCOs7B9KtHnz3iPsDLQxJJojmo72p1Ggg/www.leftfieldbar.com/)
 
-Catch a remarkable performer while you can, before he leaves town! Also, stay tuned for the official Ampeater Digital 7-inch release and complete write-up. In the meantime, you can visit his website at [http://www.michaelglines.com](http://www.michaelglines.com). Nate Greenberg
-
----
-
+Catch a remarkable performer while you can, before he leaves town! Also, stay tuned for the official Ampeater Digital 7-inch release and complete write-up. In the meantime, you can visit his website at [http://www.michaelglines.com](http://www.michaelglines.com).

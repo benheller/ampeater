@@ -5,6 +5,8 @@ date: 2013-03-11 22:00:56
 permalink: snapshot-pete-galub
 author: Nate Greenberg
 ---
+[![Snapshot: Pete Galub](https://ampeater.s3.amazonaws.com/snapshot-pete-galub/petegalub.jpg)](https://ampeater.s3.amazonaws.com/snapshot-pete-galub/petegalub.jpg)
+
 **In Ampeater's words:** If there were such thing as a lifetime achievement award in independent rock, **Pete Galub** would deserve it more than anyone. For the past decade, he's been a perennial figure in the great melting pot of New York music's semi-underground, relevant and likable no matter where the trends have blown. Galub's music draws upon classic powerpop and punk conventions, but with refreshing edge and insight. His latest album Candy Tears represents another well placed step in this trajectory. Some seven years in the making, it's the work of a mature artist challenging himself to breathe new life into well-charted genres and, against all odds, succceeding gloriously. The hooks are instant but it's Galub's sharp intellect and attention to detail that hold it together.
 
 <!-- more -->
@@ -16,4 +18,8 @@ In short, 300 Days in July is not really about nostalgia, but rather, its releva
 **In the artist's words:** I try not to give a shit about expectations when I'm playing music. Expectations don't have ears, and they often take away the urgency that is needed to play satisfying music. Music, at its best, is a living thing, always in flux, always becoming. Uncertainty can be an asset. I like the idea of creating something while staring death in the face. My favorite musicians, like my favorite people, are searchers. They know that sometimes the best songs are the ones that can play you. The ones that you can search around in, and find something different in, each time you play them. Those are the songs I try to write.
 
 ---
+
+**Days In July**
+
+https://ampeater.s3.amazonaws.com/snapshot-pete-galub/300 Days In July.mp3
 

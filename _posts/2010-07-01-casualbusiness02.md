@@ -5,17 +5,17 @@ date: 2010-07-01 12:00:03
 permalink: casualbusiness02
 author: Ampeater Music
 ---
-![](http://ampeatermusic.com/wp-content/uploads/2010/07/KGW-FPOCC.jpg "Kleenex Girl Wonder")
+**GENESIS** When **Graham Smith** accepted my invitation to participate in this fledgling Casual Business series he also offered to write two new songs for the occasion. To this I intuitively responded "hell fuckin' yeah." Like any real man he made good on his promise. Ladies and Gentlemen, allow me to present to you this 2-song record entitled **Fancy Pants of Central California**, which consists of the songs **"Jobs Jeans"** and **"Cuperchinos."** Trust Graham. He knows exactly what he is doing.
 
 <!-- more -->
-
-**GENESIS** When **Graham Smith** accepted my invitation to participate in this fledgling Casual Business series he also offered to write two new songs for the occasion. To this I intuitively responded "hell fuckin' yeah." Like any real man he made good on his promise. Ladies and Gentlemen, allow me to present to you this 2-song record entitled **Fancy Pants of Central California**, which consists of the songs **"Jobs Jeans"** and **"Cuperchinos."** Trust Graham. He knows exactly what he is doing.
 
 **PRE-GENESIS** Several years ago, Zachary Mexico turned me onto **Kleenex Girl Wonder** with the album **Ponyoak**. As promised, it was a delight. Graham recorded these very sophisticated, ultra melodic pop songs all by himself presumably in his parents house. This record came out originally in 1999. Stand out tracks include: "The Nearest Future," "The Sound of Paul," and "The Mohican Antler Yard Alphabet". Listen and buy directly from Smith [here](http://kgw.me/album/ponyoak).
 
 **CREW** So for those who don't know, **Kleenex Girl Wonder** is historically **Smith's** one-man show, although he's frequently surrounded himself with strong allies. For our session, which occurred on June 7th 2010, he enlisted a very capable duo of men to help with the bringing of the rock. We had Mr. **Matt LeMay** (Get Him Eat Him) on the drums and Mr. **Thayer McClanahan** on the guitar. **Smith** handled the bass.
 
-**GEAR** ![](http://ampeatermusic.com/wp-content/uploads/2010/07/Steve-Jobs-001.jpg) **Smith** arrived to the session sporting a sweet pair of what he considers to be **"Jobs Jeans," ** those loose-ish and sensible denim pantalones that frequently dangle from the ass of one Mr. Steve "Jobs Jeans" Jobs. We taped this session on the day Jobs unveiled the iPhone 4G. Smith opted to not wear the signature Jobs turtleneck.
+**GEAR**
+
+**Smith** arrived to the session sporting a sweet pair of what he considers to be **"Jobs Jeans,"** those loose-ish and sensible denim pantalones that frequently dangle from the ass of one Mr. Steve "Jobs Jeans" Jobs. We taped this session on the day Jobs unveiled the iPhone 4G. Smith opted to not wear the signature Jobs turtleneck.
 
 **GAME** Smith lived in the iso booth for this session. The booth can be a steamy place when inhabited by a rock-maker exerting himself. Fortunately, he either doesn't naturally generate much body heat or the new Vornado fan my lovely wife donated to the studio works very well. While he inhabited it, Smith owned that boof. He's the type of singer who knows exactly what to do and does it again and again. He's decisive. It's comforting to be around someone this certain.
 
@@ -74,8 +74,3 @@ Just comes up short--
 The sun came up at 6 a.m.: "About the time that God made men... Not all stories are spun from thread; So crash the conclave and bust some heads.
 
 I spy with my closed eye A huge big boy and a tiny li'l guy. As to which is which, honey, I can't decide; Listen, certified spirit guides are hard to find!
-
-[![](http://ampeatermusic.com/wp-content/uploads/2010/07/photo.jpg)](http://ampeatermusic.com/wp-content/uploads/2010/07/photo.jpg)[![](http://ampeatermusic.com/wp-content/uploads/2010/07/photo-1.jpg)](http://ampeatermusic.com/wp-content/uploads/2010/07/photo-1.jpg)[![](http://ampeatermusic.com/wp-content/uploads/2010/07/photo-2.jpg)](http://ampeatermusic.com/wp-content/uploads/2010/07/photo-2.jpg)[![](http://ampeatermusic.com/wp-content/uploads/2010/07/photo-3.jpg)](http://ampeatermusic.com/wp-content/uploads/2010/07/photo-3.jpg)[![](http://ampeatermusic.com/wp-content/uploads/2010/07/photo-4.jpg)](http://ampeatermusic.com/wp-content/uploads/2010/07/photo-4.jpg)
-
----
-

@@ -1,20 +1,17 @@
 ---
 layout: post
-title: "Ampeater Essay 001 Lucky Dragons"
+title: "Ancient Patterns: an essay on Life and Lucky Dragons"
 date: 2010-03-26 12:00:20
-permalink: aemessay001
-author: Ampeater Music
+permalink: ancient-patterns
+author: Jake Brunner
 ---
-Ancient Patterns
-----------------
-
-<!-- more -->
-
-### an essay on Life and Lucky Dragons
+[![Ancient Patterns: an essay on Life and Lucky Dragons](https://ampeater.s3.amazonaws.com/ancient-patterns/Lucky-Dragon.png)](https://ampeater.s3.amazonaws.com/ancient-patterns/Lucky-Dragon.png)
 
 **Life is Long I (Intro)**
 
-![](http://ampeatermusic.com/wp-content/uploads/2010/03/Lucky-Dragon.png "Lucky Dragons")I'm not sure anybody would have noticed, but I've been absent from the writing scene for a few weeks. To answer your question, yes, I am lazy. But my hope is that through this experimental meditation on a very special artist, I can demonstrate the very artness of life that surreptitiously surrounds all modes of creative production. I've been the architect of an imaginary universe whose materials are the very stuff of living. I'm putting my entire life into an aesthetically unified package they call 'the record'. I'm unpacking my life through my body via sound. (_Audience_: "Right..." ). In other words, sticking to the tradition of saying the unsayable, this piece-my return to writing- shouldn't really be read. \[I don't mean that literally. Keep reading. I also don't mean the next sentence literally (keep reading)\] I plan to masturbate, and cover way too many topics beyond the scope of a blog post. There is a method to my madness, however (melty-brained intentions aside). This exercise is as much about form, construction, confusion, division and sincerity as any of the topics it purports to unpack. My absence from writing will be included within this return to writing as a source of spectral potency. The transitive property of space in ten dimensions: _a=b, b=c_. Therefore, _a=c_. Art is Life. Life is Love. Therefore, Art is Love.
+I'm not sure anybody would have noticed, but I've been absent from the writing scene for a few weeks. To answer your question, yes, I am lazy. But my hope is that through this experimental meditation on a very special artist, I can demonstrate the very artness of life that surreptitiously surrounds all modes of creative production. I've been the architect of an imaginary universe whose materials are the very stuff of living. I'm putting my entire life into an aesthetically unified package they call 'the record'. I'm unpacking my life through my body via sound. (_Audience_: "Right..." ). In other words, sticking to the tradition of saying the unsayable, this piece-my return to writing- shouldn't really be read. \[I don't mean that literally. Keep reading. I also don't mean the next sentence literally (keep reading)\] I plan to masturbate, and cover way too many topics beyond the scope of a blog post. There is a method to my madness, however (melty-brained intentions aside). This exercise is as much about form, construction, confusion, division and sincerity as any of the topics it purports to unpack. My absence from writing will be included within this return to writing as a source of spectral potency. The transitive property of space in ten dimensions: _a=b, b=c_. Therefore, _a=c_. Art is Life. Life is Love. Therefore, Art is Love.
+
+<!-- more -->
 
 **Lucky Dragons**
 
@@ -63,8 +60,3 @@ Jacob: If you are as concerned about the computery aspect of the make a baby pro
 Luke: _Ha! Good question! That documentary is almost 5 years old now, and it's only going to get sillier looking as time goes by... what I was concerned about then was the awkward way the computer worked as a window into the process. It's an organizing intermediary between the sense-world of touch / play / shared control and the sense world of hearing and reacting--as well as an amplifier that strengthens the feedback loop between the two. Transparency was, and is, important to me in the design of the instrument, but figuring out exactly what that meant was difficult. Show the software and provide direct access to it's working? Hide the software and get nearer to closing the loop between hearing and doing? Since the documentary was made, I've figured out how to at least have that translating / reinforcing process set into the background, so that you don't need to keep checking in with it to keep things moving forward in time. Set on the pedestal as it was, it allowed anyone playing the instrument to gauge their own limits of attention, and put into motion changes in texture / responsiveness / tones / etc... it provided some degree of control outside of the physical interface of the conductive material. Accessibility was equated with transparency._
 
 _The auxiliary layer of control is now built into the instrument itself... as the way people, as a group, change their playing, the software reacts to keep things interesting, and reinforce the initial interest in playing with each other._ **_Technology provides both a promise of infinity, and an barrier to infinity, like any framing device..._**_\* Sometimes the way we present the technology is kind of shrine-like, or fetishistic, not in the sense that it is standing in for another object, but in the sense that it is an object standing in for something immaterial (that sense of infinity that encourage play, the bind between self and others, the translation of a gesture into an action, etc). Getting this right, aesthetically, was maybe part of my anxiety._
-
-Jake Brunner
-
----
-

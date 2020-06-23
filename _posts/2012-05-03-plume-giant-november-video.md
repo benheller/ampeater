@@ -7,9 +7,4 @@ author: Ampeater Music
 ---
 **Recorded live during the [Plume Giant Sprague Hall Sessions](http://ampeatermusic.com/plume-giant-the-sprague-sessions)** \[youtube\_sc url="b77K0oGibkI" title="Plume%20Giant%20-%20November%20Video" width="640" height="360" modestbranding="1" hd="1"\]
 
-<!-- more -->
-
 **_Check back tomorrow for another video from the Plume Giant Sprague Hall Sessions!_**
-
----
-

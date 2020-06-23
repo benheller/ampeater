@@ -63,6 +63,10 @@ p {
   padding: 2em;
 }
 
+.p-author {
+  float: right;
+}
+
 // home page
 .post-list {
   li {
@@ -73,10 +77,6 @@ p {
       content: "";
       clear: both;
       display: table;
-    }
-
-    .p-author {
-      float: right;
     }
 
     p:first-of-type img {
@@ -97,10 +97,11 @@ p {
   padding: 2em;
 
   h1 {
-    font-size: 2em;
+    font-size: 1.75em;
     letter-spacing: inherit;
     color: $blue;
     font-weight: bold;
+    line-height: 1.5em;
   }
 
   p:first-of-type img {
@@ -120,5 +121,11 @@ p {
     font-size: 1em;
     font-style: normal;
     letter-spacing: inherit;
+  }
+
+  &:after {
+    content: "";
+    clear: both;
+    display: table;
   }
 }

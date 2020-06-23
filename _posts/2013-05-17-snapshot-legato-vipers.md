@@ -5,6 +5,8 @@ date: 2013-05-17 02:56:56
 permalink: snapshot-legato-vipers
 author: Nate Greenberg
 ---
+[![Snapshot: Legato Vipers](https://ampeater.s3.amazonaws.com/snapshot-legato-vipers/legato-vipers-600x385.jpg)](https://ampeater.s3.amazonaws.com/snapshot-legato-vipers/legato-vipers-600x385.jpg)
+
 **In Ampeater's words:** I liked Legato Vipers from the first listen, but didn't know what to make of the band's psychadellic cinematic surf-rock antics. The music was quirky, groovy, and, without a doubt, over the top. But were these dudes for real, or was it all an elaborate and well executed joke? I've come to the conclusion that its a little of both.
 
 <!-- more -->
@@ -21,7 +23,9 @@ But it was in a remote barn on Bruce Peninsula that Jameson's was chased with wa
 
 Pyle agreed to rerecord an EP. Howard, Johnson and Anderson too were added. Brooks wrote four more tracks-- fit for a funeral home. The band met in one to play and track their first-ever note. "Legato Vipers" were christened.
 
-**Upcoming events:** [Grickle Grass Festival](http://exclaim.ca/Upcoming/ConcertListings/grickle_grass_festival-london-2013-05-25) - May 25th - London [NxNE](http://nxne.com/artists) - June 12th - Toronto [Hillside Festival](http://www.hillsidefestival.ca/pages/performers/legato-vipers) - July 26th - Guelph [Mudtown Music & Arts Festival](http://mudtownrecords.com/mudtown-music-arts-festival/) - Aug 10th - Owen Sound
-
 ---
+
+**Talkback Mikhial**
+
+https://ampeater.s3.amazonaws.com/snapshot-legato-vipers/Talkback Mikhial.mp3
 
