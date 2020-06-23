@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Ampeater Snapshot: Ben Seretan"
+title: "Snapshot: Ben Seretan"
 date: 2013-02-09 20:32:12
 permalink: snapshot-ben-seretan
 author: Nate Greenberg
 ---
-[![Ampeater Snapshot: Ben Seretan](https://ampeater.s3.amazonaws.com/snapshot-ben-seretan/benseretan.jpg)](https://ampeater.s3.amazonaws.com/snapshot-ben-seretan/benseretan.jpg)
+[![Snapshot: Ben Seretan](https://ampeater.s3.amazonaws.com/snapshot-ben-seretan/benseretan.jpg)](https://ampeater.s3.amazonaws.com/snapshot-ben-seretan/benseretan.jpg)
 
 **In the artist's words:** I have the words "Ecstatic Joy" tattooed on my chest in electric purple script. That's what I'm after, that's what singing and playing the electric guitar and droning on and on can give to me and, I hope, to you, too. I hope that we can be suspended together in the same warm syrup of human kindness that so moves me, at least until the tape runs out.
 

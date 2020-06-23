@@ -26,6 +26,7 @@ function sanitize(str) {
     .replace(/<table[\s\S]*table>/g, '')
     .replace(/<\/strong><strong>/g, '')
     .replace(/<h4[\s\S]*h4>/g, '')
+    .replace(/\[youtube_sc\s+url=\"(.+?)\".*]/g, '$1')
     .replace(/<img.*src="https?:\/\/(?:www\.)?ampeatermusic\.com\/media\/(.+?)".*\/>/g, `<img src="${BASE_URL}/$1" />`)
     .replace(/<img.*src="https?:\/\/(?:www\.)?ampeatermusic\.com\/(.+?)".*\/>/g, '')
     .replace(/<div[^>]*>/g, '')
@@ -77,7 +78,7 @@ posts.map(async post => {
   // create excerpt
   let [excerpt, ...rest] = post.content.split('\n\n');
 
-  while (excerpt.length < 300) {
+  while (excerpt.length < 300 && !excerpt.includes('---')) {
     excerpt += `\n\n${rest.shift()}`;
   }
 

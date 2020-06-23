@@ -17,6 +17,7 @@ body {
   font-size: 14px;
   font-family: 'Lucida Grande', 'Lucida Sans', Verdana, sans-serif;
   text-align: justify;
+  min-width: 320px;
 }
 
 strong {
@@ -42,6 +43,7 @@ hr {
   margin: 20px 0;
   border: 1px dashed $green;
   opacity: .25;
+  clear: both;
 }
 
 p {
@@ -82,7 +84,7 @@ p {
     p:first-of-type img {
       float:left;
       width: 20%;
-      margin: 0 1em 0 0;
+      margin: 0 1em 2em 0;
     }
 
     a.more {
@@ -107,7 +109,7 @@ p {
   p:first-of-type img {
     float:left;
     width: 40%;
-    margin: 0 1em 0 0;
+    margin: 0 1em 2em 0;
   }
 }
 
@@ -128,4 +130,9 @@ p {
     clear: both;
     display: table;
   }
+}
+
+.rss-subscribe {
+  padding: 2em;
+  background: white;
 }

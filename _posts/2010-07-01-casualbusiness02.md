@@ -3,7 +3,7 @@ layout: post
 title: "Casual Business 02: Kleenex Girl Wonder - Fancy Pants of Central California"
 date: 2010-07-01 12:00:03
 permalink: casualbusiness02
-author: Ampeater Music
+author: Travis Harrison
 ---
 **GENESIS** When **Graham Smith** accepted my invitation to participate in this fledgling Casual Business series he also offered to write two new songs for the occasion. To this I intuitively responded "hell fuckin' yeah." Like any real man he made good on his promise. Ladies and Gentlemen, allow me to present to you this 2-song record entitled **Fancy Pants of Central California**, which consists of the songs **"Jobs Jeans"** and **"Cuperchinos."** Trust Graham. He knows exactly what he is doing.
 
@@ -39,7 +39,7 @@ PS -- Stay tuned to [breakthruradio.com](http://breakthruradio.com) for a BreakT
 
 FIN
 
-JEANS! Travis Harrison
+JEANS!
 
 **Jobs Jeans** Too loose To be comfortable. Too soon! Mine only runs Turbo-- Turbo. Turbo, what did you do? The secret to control Is having nothing to lose
 

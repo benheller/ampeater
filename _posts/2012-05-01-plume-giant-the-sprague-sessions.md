@@ -5,6 +5,8 @@ date: 2012-05-01 22:42:51
 permalink: plume-giant-the-sprague-sessions
 author: Ben Lasman
 ---
+[![Plume Giant - The Sprague Hall Sessions](https://ampeater.s3.amazonaws.com/plume-giant-the-sprague-sessions/cover.png)](https://ampeater.s3.amazonaws.com/plume-giant-the-sprague-sessions/cover.png)
+
 In late March of this year, **Nolan Green** invited me to hear his band **Plume Giant** perform a short set of songs at Sprague Hall in New Haven, CT. A spacious, architecturally beautiful, and acoustically rich recital space, Sprague typically hosts concerts by Yale School of Music students and faculty, as well as all manner of visiting classical and jazz artists. Bass great Ron Carter played there a few days before our session. The week after, the St. Louis String Quartet performed a selection of quartets by Mozart and John Adams. It is, in other words, not the exactly the kind of place you'd expect to go see your friend's band cut a handful of tracks. And yet, listening to the results, Sprague's lofty pedigree proves an unexpectedly keen match to Plume Giant's elegant, haunting, and immaculately executed songs. The recording is crystal clear, and I'd say less than half of that has to do with the Hall's legendary sonics. From the intricately woven harmonies of "Kensico Dam," to the coy insistence of Dan Hick's staple "Old Timey Baby," the trio of singer/guitarist Green, guitarist/fiddler/singer Oliver Hall, and fiddler/vocalist Eliza Bagg make music whose referents range from the raucous idioms of American folk, to the restraint and subtlety of a chamber ensemble, to the grit and humor of a touring bar band. Surprises are abundant in these recordings, but the ever-shifting structures, the complex interplay of the three voices, the endlessly inventive variations of recurring themes never seem manipulative or academic. Rather, Plume Giant performs with an honesty that makes no apologies about its talent, its willingness to go to harmonic and compositional places few other bands would even attempt, let alone pull off. In the interview below, Bagg discusses how the trio tries to create "a specific world" for each song they write and perform. Like any world worth visiting, Plume Giant's tracks ask the listener to do a little exploring. For every standout hook, every beautiful stretch of a song, there exist hidden moments of weirdness, nooks and crannies that only come to the surface over repeated trips. When you leave, these places stick with you, like a bramble you find latched onto your sock after a long hike. Plume Giant took me on a journey that night at Sprague Hall. This session is what we brought back.
 
 <!-- more -->
@@ -29,4 +31,29 @@ We really listen to many different kinds of music, and, while a lot of it sounds
 
 We're really excited for the summer tour. Aside from our time in Colorado, which was set up by our friend Macon in Paper Bird, the whole tour's been self-booked. It's been a ton of work but is allowing us to play with different local bands at each stop that we really dig. The back-and-forth with local bands--setting up the bill, confirming the venue, working on promo--gives us a feel for the music scene in each city and makes each stop its own little special event rather than just another hit and run bar show. First we have to graduate, but come May we're hopeful that the tour will get folks all over the country excited about the record release later this summer.
 
-_We'll be posting a video a day over the next 4 days, culminating with the release of the entire session on MP3, available as a FREE DOWNLOAD. Can't wait for more Plume Giant? Check out their latest EP at [http://plumegiant.com](http://plumegiant.com/)_
+https://www.youtube.com/watch?v=FoA8GXcismM
+
+https://www.youtube.com/watch?v=b77K0oGibkI
+
+https://www.youtube.com/watch?v=y8yd2jS7U60
+
+https://www.youtube.com/watch?v=CnJ5APsisPg
+
+---
+
+**Kensico Dam**
+
+https://ampeater.s3.amazonaws.com/plume-giant-the-sprague-sessions/01 Kensico Dam.mp3
+
+**November**
+
+https://ampeater.s3.amazonaws.com/plume-giant-the-sprague-sessions/02 November.mp3
+
+**Fool Hall**
+
+https://ampeater.s3.amazonaws.com/plume-giant-the-sprague-sessions/03 Fool Hall.mp3
+
+**Old Timey Baby**
+
+https://ampeater.s3.amazonaws.com/plume-giant-the-sprague-sessions/04 Old Timey Baby.mp3
+
