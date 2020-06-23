@@ -23,7 +23,7 @@ _Recorded by Travis Harrison at Serious Business Music, NYC on September 10, 201
 
 Dan Bateman: guitar, keyboard, lead vocals Will Schwartz: guitar, keyboard, lead vocals Duncan Berry: drums Thomas White: upright bass
 
-### CLARINETS
+**CLARINETS**
 Hand painted adver­tise­ments on the sides of lowrises
 were once like chapels to men,
 their cre­ators moved on
@@ -66,7 +66,7 @@ and toss your clar­inet into a pile of leaves
 it’s like the deeper you plant it
 the longer you carry it with you.
 
-### GREEN APPLE SKOAL
+**GREEN APPLE SKOAL**<br />
 ‪the bro­ken boy scaled up the bridge his hands scraped and peel­ing like lit­tle paint chips at the zoo in the ele­phant house he sang f scott key to your daugh­ter as he reached for the tail you laughed at the bruises he left on your hips when he fucked you on the couch where your friends would all sit bare backs stick­ing to the leather‬
 he said come with me just for an hour so my father’s a tai­lor in ramapo and you’d pic­ture him at your funeral irish catholics use open cas­kets to be spite­ful
 ‪He told you had Mid­west­ern jowls,‬
@@ -88,3 +88,12 @@ https://ampeater.s3.amazonaws.com/casualbusiness03/01 Clarinets.mp3
 
 https://ampeater.s3.amazonaws.com/casualbusiness03/02 Green Apple Skoal.mp3
 
+[![](https://ampeater.s3.amazonaws.com/casualbusiness03/uncles4-300x300.jpg)](https://ampeater.s3.amazonaws.com/casualbusiness03/uncles4-300x300.jpg)
+
+[![](https://ampeater.s3.amazonaws.com/casualbusiness03/uncles5-300x225.jpg)](https://ampeater.s3.amazonaws.com/casualbusiness03/uncles5-300x225.jpg)
+
+[![](https://ampeater.s3.amazonaws.com/casualbusiness03/uncles6-300x300.jpg)](https://ampeater.s3.amazonaws.com/casualbusiness03/uncles6-300x300.jpg)
+
+[![](https://ampeater.s3.amazonaws.com/casualbusiness03/uncles7.jpg)](https://ampeater.s3.amazonaws.com/casualbusiness03/uncles7.jpg)
+
+[![](https://ampeater.s3.amazonaws.com/casualbusiness03/uncles8.jpg)](https://ampeater.s3.amazonaws.com/casualbusiness03/uncles8.jpg)
