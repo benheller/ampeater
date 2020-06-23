@@ -77,8 +77,6 @@ The sun came up at 6 a.m.: "About the time that God made men... Not all stories 
 
 I spy with my closed eye A huge big boy and a tiny li'l guy. As to which is which, honey, I can't decide; Listen, certified spirit guides are hard to find!
 
-[![](https://ampeater.s3.amazonaws.com/casualbusiness02/photo-4.jpg)](https://ampeater.s3.amazonaws.com/casualbusiness02/photo-4.jpg)
-
 ---
 
 **Jobs Jeans**
@@ -88,4 +86,14 @@ https://ampeater.s3.amazonaws.com/casualbusiness02/01 Jobs Jeans.mp3
 **Cuperchinos**
 
 https://ampeater.s3.amazonaws.com/casualbusiness02/02 Cuperchinos.mp3
+
+[![](https://ampeater.s3.amazonaws.com/casualbusiness02/photo.jpg)](https://ampeater.s3.amazonaws.com/casualbusiness02/photo.jpg)
+
+[![](https://ampeater.s3.amazonaws.com/casualbusiness02/photo-1.jpg)](https://ampeater.s3.amazonaws.com/casualbusiness02/photo-1.jpg)
+
+[![](https://ampeater.s3.amazonaws.com/casualbusiness02/photo-2.jpg)](https://ampeater.s3.amazonaws.com/casualbusiness02/photo-2.jpg)
+
+[![](https://ampeater.s3.amazonaws.com/casualbusiness02/photo-3.jpg)](https://ampeater.s3.amazonaws.com/casualbusiness02/photo-3.jpg)
+
+[![](https://ampeater.s3.amazonaws.com/casualbusiness02/photo-4.jpg)](https://ampeater.s3.amazonaws.com/casualbusiness02/photo-4.jpg)
 
