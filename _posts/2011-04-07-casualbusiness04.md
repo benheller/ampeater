@@ -15,6 +15,10 @@ They launched into their music, and for all its kinetic twists and surprising tu
 
 The first part of this session was devoted to taping my BreakThruRadio show. Hear it [here](http://www.breakthruradio.com/#/post/?dj=seriousmusic&post=99&blog=94&autoplay=1) and watch the video below. My BTR sessions tend to veer towards beery mostly because it's nervewracking to pretend to be a talk show host. I prefer a social atmosphere. This session was taped back before Four Loko was banned. I had some of that forbidden elixir and shouldn't have, because my sharp recollections have faded into foggy notions. I took notes, however. Here is a snapshot of my scribbles from the session:
 
+[![](https://ampeater.s3.amazonaws.com/casualbusiness04/session-1.jpg)](https://ampeater.s3.amazonaws.com/casualbusiness04/session-1.jpg)
+
+[![](https://ampeater.s3.amazonaws.com/casualbusiness04/session-2.jpg)](https://ampeater.s3.amazonaws.com/casualbusiness04/session-2.jpg)
+
 ---
 
 **Brand New Thing**
@@ -33,3 +37,8 @@ https://ampeater.s3.amazonaws.com/casualbusiness04/03 Man_Woman.mp3
 
 https://ampeater.s3.amazonaws.com/casualbusiness04/04 Dancing in the Dark.mp3
 
+[![](https://ampeater.s3.amazonaws.com/casualbusiness04/photo-1.png)](https://ampeater.s3.amazonaws.com/casualbusiness04/photo-1.png)
+
+[![](https://ampeater.s3.amazonaws.com/casualbusiness04/photo-2.png)](https://ampeater.s3.amazonaws.com/casualbusiness04/photo-2.png)
+
+[![](https://ampeater.s3.amazonaws.com/casualbusiness04/photo-3.png)](https://ampeater.s3.amazonaws.com/casualbusiness04/photo-3.png)

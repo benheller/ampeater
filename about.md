@@ -18,3 +18,13 @@ A dig­i­tal 7-inch is essen­tially a pro­mo­tional sin­gle. like the clas�
 > I truly believe in what this site is doing, bring­ing back the heart and warmth, care and atten­tion to the cold cyn­i­cal blo­gos­phere. In depth reviews from peo­ple who truly care and think about their music for peo­ple who feel the same.
 
 – Mr. Reader
+
+## Shows
+
+- **Strawberry Hands, Boy Without God, Weyes Bluhd, RAUL, Amazing/Wow, Extra Life, Pet Ghost Project** @ Pianos (2009 Launch Party)
+- **Shark?, Cuddle Magic, Morning Benders** w/ Hype Machine @ Housing Works (2010)
+- **Twin Sister, Memoryhouse** w/ Manic Productions @ Cafe Nine (2010)
+- **Miles Benjamin Anthony Robinson, Electric Tickle Machine, MiniBoone, Translations** w/ QRO Mag @ The Knitting Factory (2010)
+- **Boy Without God, PS I Love You, MiniBoone, Thieving Irons** w/ QRO Mag @ Bar Matchless (Northside Festival 2010)
+- **Young Mammals, Emanuel and the Fear, Alcoholic Faith Mission, Freedom or Death, Saadi, Kidstreet, Motel Model** w/ Paper Garden Records @ The Living Room (CMJ 2010)
+- **PS I Love You, Holiday Shores** w/ Manic Productions @ Daniel Street (2010)
