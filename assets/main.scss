@@ -20,6 +20,12 @@ body {
   min-width: 320px;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  text-align: left;
+  letter-spacing: inherit;
+  font-weight: bold;
+}
+
 strong {
   color: $red;
 }
@@ -100,11 +106,8 @@ p {
 
   h1 {
     font-size: 1.75em;
-    letter-spacing: inherit;
     color: $blue;
-    font-weight: bold;
     line-height: 1.5em;
-    text-align: left;
   }
 
   p {
@@ -123,17 +126,12 @@ p {
   h2 {
     font-size: 1.5em;
     color: $blue;
-    text-align: left;
-    font-weight: bold;
   }
 
   h3 {
     font-size: 1em;
     color: $red;
-    font-weight: bold;
-    letter-spacing: inherit;
     margin-bottom: 0;
-    text-align: left;
   }
 
   blockquote {
