@@ -3,7 +3,7 @@ layout: post
 title: "Casual Business 04: MiniBoone"
 date: 2011-04-07 12:00:17
 permalink: casualbusiness04
-author: Ben Heller
+author: Travis Harrison
 ---
 [![Casual Business 04: MiniBoone](https://ampeater.s3.amazonaws.com/casualbusiness04/MiniBoone.jpg)](https://ampeater.s3.amazonaws.com/casualbusiness04/MiniBoone.jpg)
 
